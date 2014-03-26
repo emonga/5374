@@ -117,7 +117,7 @@ var TrashModel = function(_lable, _cell, remarks) {
     this.dayCell.forEach(function(day){
       if (day.substr(0,1) == "*") {
         remarks.forEach(function(remark){
-          if (remark.id == day.substr(1,2)){
+          if (remark.id == day.substr(1,1)){
             ret += remark.text + "<br/>";
           }
         });
