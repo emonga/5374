@@ -1,5 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やさないごみ,,,img/moyasanai02.svg,#733b96
-資源,,,img/shigen02.svg,#77ae1f
-燃やすごみ,,,img/moyasu02.svg,#ea3b13
-びん,,,img/bin02.svg,#2dc7aa
+燃やせるごみ,,,,#F54412
+資源プラ,,,,#A812F5
+金属類・ガラス類・その他,,,,#2970DD
+廃プラスチック類,,,,#333333
+布類・蛍光管・乾電池・食用油,,,,#43B40D
+空きびん・空き缶,,,,#3D8F16
+粗大ゴミ,,,,#8F5516
